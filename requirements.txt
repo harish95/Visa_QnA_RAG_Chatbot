@@ -1,3 +1,4 @@
+python=3.10
 gradio 
 langchain 
 langchain-community 
@@ -9,4 +10,5 @@ bs4
 python-dotenv
 sentence-transformers
 sqlite3
+
 
