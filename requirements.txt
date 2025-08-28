@@ -8,3 +8,5 @@ chromadb
 bs4 
 python-dotenv
 sentence-transformers
+sqlite3
+
